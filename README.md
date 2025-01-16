@@ -1,7 +1,13 @@
-<p align="center"><img src="https://github.dev/AshrafMorningstar/New-Mstar-Ad-Blocker/blob/fe0700fb8cb76b18827f742085adc33aaf547f73/images/logo.png">
-</p>
-<h1 align="center"> Youtube Ad Blocker Extension </h1>
 <p align="center">
+  <img src="images/Last LOGO.png">
+</p>
+<h1 align="center"> New Youtube Mstar Ad Blocker Extension </h1>
+<p align="center">
+  <b >Ad-Blocker Extension for YouTube Videos</b>
+</p>
+
+<br>
+
 # New-Mstar-Ad-Blocker
 Dive into a world where your online video experience is no longer hindered by irrelevant ads, and enjoy the true essence of uninterrupted content consumption with the YouTube Mstar Ad Blocker—the quintessential tool for the modern digital connoisseur.
 
@@ -41,3 +47,7 @@ Installation Instructions
 ---
 
 By Ashraf Morningstar
+ 
+ Last Update of This Project 
+
+  <img src="images/shutterstock_353113937-compressor.jpg">
