@@ -1,7 +1,8 @@
 <p align="center">
   <img src="images/Last LOGO.png">
 </p>
-<h1 align="center"> New Youtube Mstar Ad Blocker Extension </h1>
+<h1 align="center"> New Youtube Mstar Ad Blocker Extension 
+By Ashraf Morningstar</h1>
 <p align="center">
   <b >Ad-Blocker Extension for YouTube Videos</b>
 </p>
