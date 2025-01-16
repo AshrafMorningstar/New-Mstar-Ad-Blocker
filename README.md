@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AshrafMorningstar/New-Mstar-Ad-Blocker/blob/main/images/Last%20LOGO.png">
+  <img src="https://github.dev/AshrafMorningstar/New-Mstar-Ad-Blocker/blob/fe0700fb8cb76b18827f742085adc33aaf547f73/images/Last%20LOGO.png
+  ![https://raw.githubusercontent.com/AshrafMorningstar/New-Mstar-Ad-Blocker/blob/main/images/Last%20LOGO.png]
+  (https://github.dev/AshrafMorningstar/New-Mstar-Ad-Blocker/blob/fe0700fb8cb76b18827f742085adc33aaf547f73/images/Last%20LOGO.png)">
 </p>
 <h1 align="center"> Youtube Ad Blocker Extension </h1>
 <p align="center">
