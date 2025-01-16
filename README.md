@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iqbal-rashed/youtube-ad-blocker/main/manifest_v3/images/icon128.png">
+</p>
+<h1 align="center"> Youtube Ad Blocker Extension </h1>
+<p align="center">
 # New-Mstar-Ad-Blocker
 Dive into a world where your online video experience is no longer hindered by irrelevant ads, and enjoy the true essence of uninterrupted content consumption with the YouTube Mstar Ad Blocker—the quintessential tool for the modern digital connoisseur.
 
