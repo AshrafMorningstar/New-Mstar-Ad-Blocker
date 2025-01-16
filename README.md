@@ -12,3 +12,28 @@ Noteworthy attributes include:
 By integrating these powerful functionalities, the **YouTube Ad Blocker** sets itself apart from ordinary ad blockers, offering a premium and professional-grade solution for discerning users. Embrace the future of ad-free YouTube viewing with an extension that embodies efficiency, sophistication, and unparalleled performance.
 
 Dive into a world where your online video experience is no longer hindered by irrelevant ads, and enjoy the true essence of uninterrupted content consumption with the **YouTube Ad Blocker**—the quintessential tool for the modern digital connoisseur.
+
+Here you go:
+
+---
+
+Installation Instructions
+
+**For Chrome:**
+
+1. Clone the repository.
+2. Open Chrome and navigate to `chrome://extensions/`.
+3. Enable developer mode.
+4. Click "Load Unpacked" and select the "MSTAR AD BLOCKER" folder from the cloned repository.
+5. The extension will now be installed and will automatically block ads on YouTube videos.
+
+**For Firefox:**
+
+1. Open Firefox and navigate to [this link](https://addons.mozilla.org/firefox/addon/ublock-origin/) to Block YouTube Ads.
+2. Click the "Add to Firefox" button to install the extension.
+3. Follow the prompts to confirm the installation, then restart your browser.
+4. Once the browser has restarted, the YouTube Ad Blocker extension will be active and will automatically block ads on any YouTube videos you watch.
+
+---
+
+By Ashraf Morningstar
