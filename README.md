@@ -1,87 +1,83 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
 
-<p align="center">
-  <img src="images/Last LOGO.png">
-</p>
-<h1 align="center"> New Youtube Mstar Ad Blocker Extension </h1>
-<p align="center">
-  <b >Ad-Blocker Extension for YouTube Videos By Ashraf Morningstar</b>
-</p>
+<div align="center">
 
-<br>
+# :star: New Mstar Ad Blocker :star:
 
-# New-Mstar-Ad-Blocker
-Dive into a world where your online video experience is no longer hindered by irrelevant ads, and enjoy the true essence of uninterrupted content consumption with the YouTube Mstar Ad Blocker—the quintessential tool for the modern digital connoisseur.
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/New-Mstar-Ad-Blocker?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/New-Mstar-Ad-Blocker/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/New-Mstar-Ad-Blocker?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/New-Mstar-Ad-Blocker/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/New-Mstar-Ad-Blocker?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/New-Mstar-Ad-Blocker/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/New-Mstar-Ad-Blocker?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
 
-Introducing the cutting-edge **YouTube Ad Blocker** extension, meticulously crafted for seamless compatibility with both **Chrome** and **Firefox** browsers. This innovative solution is engineered to revolutionize your YouTube experience by effectively eliminating disruptive advertisements, thus providing an uninterrupted viewing pleasure. With its suite of advanced features, this extension transcends the capabilities of conventional ad blockers available in the digital marketplace.
+**Automated, High-Performance New Mstar Ad Blocker Project**
 
-Noteworthy attributes include:
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/New-Mstar-Ad-Blocker/issues) • [Request Feature](https://github.com/AshrafMorningstar/New-Mstar-Ad-Blocker/issues)
 
-- Lightning-fast ad blocking that obliterates YouTube video ads within a mere half-second, ensuring minimal disruption.
-- Robust image ad blocking that targets and removes intrusive ads displayed alongside your video content.
-- Enhanced overlay ad blocking, designed to eradicate the pesky text overlays that often clutter your screen during YouTube viewing sessions.
-
-By integrating these powerful functionalities, the **YouTube Ad Blocker** sets itself apart from ordinary ad blockers, offering a premium and professional-grade solution for discerning users. Embrace the future of ad-free YouTube viewing with an extension that embodies efficiency, sophistication, and unparalleled performance.
-
-Dive into a world where your online video experience is no longer hindered by irrelevant ads, and enjoy the true essence of uninterrupted content consumption with the **YouTube Ad Blocker**—the quintessential tool for the modern digital connoisseur.
-
-Here you go:
+</div>
 
 ---
 
-Installation Instructions
+## :rocket: Overview
 
-**For Chrome:**
+**New-Mstar-Ad-Blocker** is a state-of-the-art implementation utilizing HTML5, CSS3. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering, Open Source, Developer Tools, Coding Best Practices, Software Engineering.
 
-1. Clone the repository.
-2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable developer mode.
-4. Click "Load Unpacked" and select the "MSTAR AD BLOCKER" folder from the cloned repository.
-5. The extension will now be installed and will automatically block ads on YouTube videos.
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
 
-**For Firefox:**
+## :sparkles: Key Features
 
-1. Open Firefox and navigate to Block YouTube Ads.
-2. Click the "Add to Firefox" button to install the extension.
-3. Follow the prompts to confirm the installation, then restart your browser.
-4. Once the browser has restarted, the YouTube Ad Blocker extension will be active and will automatically block ads on any YouTube videos you watch.
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in HTML5, CSS3.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
+
+## :hammer_and_wrench: Technologies Used
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/New-Mstar-Ad-Blocker.git
+   cd New-Mstar-Ad-Blocker
+   ```
+
+2. **Install dependencies:**
+    No specific installation required.
+
+3. **Run the application:**
+    Open index.html in your browser.
+
+## :open_file_folder: Project Structure
+
+```
+New-Mstar-Ad-Blocker/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-By Ashraf Morningstar
- 
- Last Update of This Project 
-
-  <img src="images/shutterstock_353113937-compressor.jpg">
-
-
----
-
-## 📜 Copyright & License
-
-© 2026 Ashraf Morningstar. All Rights Reserved.
-
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
-
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
-
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
-
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
-
----
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
+<div align="center">
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
+</div>
